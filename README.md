@@ -1,16 +1,29 @@
-# taju
+# Campus Lost and Found App
 
-A new Flutter project.
+A Flutter-based Campus Lost and Found application using Firebase.
+
+## Features
+- User registration and login
+- Post lost and found items
+- Browse and view item details
+- Admin approval of submitted items
+- Chat between users
+- Firebase Authentication and Cloud Firestore integration
+
+## Technologies
+- Flutter and Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter and configure the Flutter SDK.
+2. Clone this repository.
+3. Run `flutter pub get`.
+4. Configure your Firebase project.
+5. Run `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Purpose
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application helps students report lost items and connect with people who may have found them.
